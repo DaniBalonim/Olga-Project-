@@ -1,0 +1,9 @@
+C:\Users\Cyber_Magshimim\Desktop\school\server\ViewDB\bin\Debug\ViewDB.dll
+C:\Users\Cyber_Magshimim\Desktop\school\server\ViewDB\bin\Debug\ViewDB.pdb
+C:\Users\Cyber_Magshimim\Desktop\school\server\ViewDB\bin\Debug\Model.dll
+C:\Users\Cyber_Magshimim\Desktop\school\server\ViewDB\bin\Debug\Model.pdb
+C:\Users\Cyber_Magshimim\Desktop\school\server\ViewDB\obj\Debug\ViewDB.csproj.AssemblyReference.cache
+C:\Users\Cyber_Magshimim\Desktop\school\server\ViewDB\obj\Debug\ViewDB.csproj.CoreCompileInputs.cache
+C:\Users\Cyber_Magshimim\Desktop\school\server\ViewDB\obj\Debug\ViewDB.csproj.Up2Date
+C:\Users\Cyber_Magshimim\Desktop\school\server\ViewDB\obj\Debug\ViewDB.dll
+C:\Users\Cyber_Magshimim\Desktop\school\server\ViewDB\obj\Debug\ViewDB.pdb
