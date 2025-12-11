@@ -1,0 +1,100 @@
+﻿@page
+@model F1Bagrut.Pages.Content.FormPageModel
+@{
+}
+<link href="~/css/stylesheet1.css" rel="stylesheet" />
+<script src="~/js/javascript.js"></script>
+
+<main>
+    <form onsubmit="return CheckForm()" method="post" style="direction: rtl; text-align: right;">
+        <table style="margin: auto; text-align: right;">
+            <tr>
+                <td>שם משתמש</td>
+                <td><input type="text" asp-for="NewUser.userName" id="username" placeholder="הכנס שם משתמש" /></td>
+                <td id="usernameError">
+                    @if(Model.msg != "")
+                    {
+                        @Model.msg;
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td>שם פרטי</td>
+                <td><input type="text" asp-for="NewUser.firstName" id="fName" placeholder="הכנס את שמך באנגלית" /></td>
+                <td id="errorFname"></td>
+            </tr>
+            <tr>
+                <td>שם משפחה</td>
+                <td><input type="text" asp-for="NewUser.lastName" id="lName" placeholder="הכנס את שם המשפחה באנגלית" /></td>
+                <td id="errorLname"></td>
+            </tr>
+            <tr>
+                <td>אימייל</td>
+                <td><input type="text" asp-for="NewUser.email" id="txtEmail" placeholder="הכנס את האימייל" /></td>
+                <td id="emailError"></td>
+            </tr>
+            <tr>
+                <td>מספר טלפון</td>
+                <td><input type="text" asp-for="NewUser.phoneNumber" id="phone" /></td>
+                <td id="phoneError"></td>
+            </tr>
+            <tr>
+                <td>סיסמה</td>
+                <td><input type="password" asp-for="NewUser.password" id="pass1" placeholder="הזן את הסיסמה" /></td>
+                <td id="pass1Error"></td>
+            </tr>
+            <tr>
+                <td>אימות סיסמה</td>
+                <td><input type="password" id="pass2" placeholder="הזן אימות סיסמה" /></td>
+                <td id="pass2Error"></td>
+            </tr>
+            <tr>
+                <td>תאריך לידה</td>
+                <td><input type="date" asp-for="NewUser.birthDay" id="birth" /></td>
+                <td id="birthError"></td>
+            </tr>
+            <tr>
+                <td>מין</td>
+                <td>
+                    <input type="radio" asp-for="NewUser.gender" id="M" value="Male" /> זכר
+                    <input type="radio" asp-for="NewUser.gender" id="F" value="Female" /> נקבה
+                </td>
+                <td id="genderError"></td>
+            </tr>
+            <tr>
+                <td>עיר</td>
+                <td>
+                    <select asp-for="NewUser.city" id="city">
+                        <option value="">בחר עיר מגורים</option>
+                        <option value="TelAviv">תל אביב</option>
+                        <option value="Jerusalem">ירושלים</option>
+                        <option value="Haifa">חיפה</option>
+                        <option value="RishonLezion">ראשון לציון</option>
+                        <option value="PetahTikva">פתח תקווה</option>
+                        <option value="Ashdod">אשדוד</option>
+                        <option value="Netanya">נתניה</option>
+                        <option value="BeerSheva">באר שבע</option>
+                        <option value="Holon">חולון</option>
+                        <option value="BneiBrak">בני ברק</option>
+                        <option value="RamatGan">רמת גן</option>
+                        <option value="Rehovot">רחובות</option>
+                        <option value="Ashkelon">אשקלון</option>
+                        <option value="BatYam">בת ים</option>
+                        <option value="Herzliya">הרצליה</option>
+                        <option value="KfarSaba">כפר סבא</option>
+                        <option value="Hadera">חדרה</option>
+                        <option value="Modiin">מודיעין</option>
+                    </select>
+                </td>
+                <td id="cityError"></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <hr />
+                    <input type="submit" />
+                    <input type="reset" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</main>

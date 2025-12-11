@@ -1,0 +1,97 @@
+﻿@page
+@model F1Bagrut.Pages.Content.UsersUpdateModel
+@{
+}
+<link href="~/css/stylesheet1.css" rel="stylesheet" />
+<script src="~/js/updatejava.js"></script>
+
+<main>
+    <form onsubmit="return confirmPhone()" method="post" style="direction: rtl; text-align: right;">
+        <table style="margin: auto; text-align: right;">
+            <tr>
+                <td>שם משתמש</td>
+                <td><input type="text" id="username" asp-for="NewUser.userName" readonly /></td>
+                <td id="usernameError"></td>
+            </tr>
+            <tr>
+                <td>שם פרטי</td>
+                <td><input type="text" id="fname" asp-for="NewUser.firstName"/></td>
+                <td id="fNameError"></td>
+            </tr>
+            <tr>
+                <td>שם משפחה</td>
+                <td><input type="text" id="lname" asp-for="NewUser.lastName"/></td>
+                <td id="lNameError"></td>
+            </tr>
+            <tr>
+                <td>אימייל</td>
+                <td><input type="text" id="txtEmail" asp-for="NewUser.email"/></td>
+                <td id="emailError"></td>
+            </tr>
+            <tr>
+                <td>מספר טלפון</td>
+                <td><input type="tel" id="phone" asp-for="NewUser.phoneNumber"/></td>
+                <td id="phoneError"></td>
+            </tr>
+            <tr>
+                <td>סיסמה</td>
+                <td><input type="text" id="pass1" asp-for="NewUser.password"/></td>
+                <td id="pass1Error"></td>
+            </tr>
+            <tr>
+                <td>תאריך לידה</td>
+                <td><input type="date" id="birth" asp-for="NewUser.birthDay"/></td>
+                <td id="birthError"></td>
+            </tr>
+            <tr>
+                <td>מין</td>
+                <td>
+                    <input type="radio" id="M" asp-for="NewUser.gender" value="Male" /> זכר
+                    <input type="radio" id="F" asp-for="NewUser.gender" value="Female" /> נקבה
+                    <input type="radio" id="O" asp-for="NewUser.gender" value="Other" /> אחר
+                </td>
+                <td id="genderError"></td>
+            </tr>
+            <tr>
+                <td>עיר</td>
+                <td>
+                    <select id="city" asp-for="NewUser.city">
+                        <option value="TelAviv">תל אביב</option>
+                        <option value="Jerusalem">ירושלים</option>
+                        <option value="Haifa">חיפה</option>
+                        <option value="RishonLezion">ראשון לציון</option>
+                        <option value="PetahTikva">פתח תקווה</option>
+                        <option value="Ashdod">אשדוד</option>
+                        <option value="Netanya">נתניה</option>
+                        <option value="BeerSheva">באר שבע</option>
+                        <option value="Holon">חולון</option>
+                        <option value="BneiBrak">בני ברק</option>
+                        <option value="RamatGan">רמת גן</option>
+                        <option value="Rehovot">רחובות</option>
+                        <option value="Ashkelon">אשקלון</option>
+                        <option value="BatYam">בת ים</option>
+                        <option value="Herzliya">הרצליה</option>
+                        <option value="KfarSaba">כפר סבא</option>
+                        <option value="Hadera">חדרה</option>
+                        <option value="Modiin">מודיעין</option>
+                    </select>
+                </td>
+                <td id="cityError"></td>
+            </tr>
+            <tr>
+                <td><label for="Admin">Admin</label></td>
+                <td>
+                    <input type="checkbox" id="admin" asp-for="NewUser.admin" />
+                </td>
+                <td id="errorGender"></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <hr />
+                    <input type="submit" onclick="return true"/>
+                    <input type="reset"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+</main>

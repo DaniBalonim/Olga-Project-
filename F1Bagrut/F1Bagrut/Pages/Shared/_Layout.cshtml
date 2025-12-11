@@ -1,0 +1,99 @@
+﻿@using Microsoft.AspNetCore.Http
+@{
+    var sessionValue = Context.Session.GetString("Login");
+    var sessionAdmin = Context.Session.GetString("Admin");
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - F1Bagrut</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/F1Bagrut.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Home Page</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Content/FormPage">Sign Up</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Content/LoginPage">Login</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" id="pageDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Pages
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="pageDropdown">
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P1_TopF1Champions">הדרך לפסגה: אלופי הפורמולה 1 המובילים בכל הזמנים</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P2_F1IconicTracks">קווי הזינוק המרהיבים: המסלולים האייקוניים של הפורמולה 1</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P3_F12024Predictions">פורמולה 1 2024: התחזיות לקראת עונת המירוצים הקרובה</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P4_F1TechAndEngineering">כך הם עושים זאת: הטכנולוגיה וההנדסה מאחורי רכבי הפורמולה 1</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P5_F1History">ההיסטוריה של פורמולה 1: מרוץ אחרי מרוץ, התפתחות הענף לאורך השנים</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P6_F1YoungDrivers2024">הנהגים הצעירים שכדאי לעקוב אחריהם בעונת הפורמולה 1</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P7_F1Rivalries">קרב הענקים: היריבויות הגדולות בהיסטוריה של פורמולה 1</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P8_F1MemorableMoments">הרגעים הבלתי נשכחים על המסלול: תאונות מרהיבות ומתח עד הקצה</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P9_F1SpeedAndSafety">מהירות ובטיחות: כיצד הטכנולוגיה שומרת על הנהגים במרוצים המסוכנים ביותר</a></li>
+                                <li><a class="dropdown-item" asp-area="" asp-page="/Content/P10_F1Legends">דמויות מופת: אלופי העולם שהפכו לאגדות במירוצי פורמולה 1</a></li>
+                                @if (!string.IsNullOrEmpty(sessionValue))
+                                {
+                                    <li><a class="dropdown-item" asp-area="" asp-page="/Content/P11_F1CarDesign">כיצד מתכננים מכונית פורמולה 1: שלב אחר שלב בעיצוב רכב המירוץ</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-page="/Content/P12_F1RaceStrategy">האסטרטגיה במירוצים: הטקטיקות המובילות של קבוצות הפורמולה 1</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-page="/Content/P13_F1DriverTraining">האימונים האינטנסיביים של נהגי הפורמולה 1 – מה נדרש כדי להגיע לפסגה?</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-page="/Content/P14_F1TechEvolution">מירוץ אחר טכנולוגיה: כך משתפרות מכוניות הפורמולה 1 משנה לשנה</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-page="/Content/P15_F1Sustainability">ההשפעה הסביבתית של פורמולה 1: איך הענף מתמודד עם אתגרי הקיימות</a></li>
+                                    if (sessionAdmin == "True")
+                                    {
+                                        <li><a class="dropdown-item" asp-area="" asp-page="/Content/TableData">Users Data</a></li>
+                                    }
+                                }
+                            </ul>
+                        </li>
+                    </ul>
+                    @if (string.IsNullOrEmpty(sessionValue))
+                    {
+                        <span class="navbar-text">welcome visitor</span>
+                    }
+                    else
+                    {
+                        <span class="navbar-text">welcome @sessionValue</span>
+                        <div class="d-flex">
+                            <a class="btn btn-outline-dark btn-sm ms-1" href="Logout" role="button">Logout</a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <!--
+        <div class="container">
+            &copy; 2025 - F1Bagrut - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+        -->
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

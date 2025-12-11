@@ -1,0 +1,36 @@
+﻿@page
+@model F1Bagrut.Pages.Content.LoginPageModel
+@{
+}
+<link href="~/css/stylesheet1.css" rel="stylesheet" />
+
+<body>
+    <main>
+        <form method="post" style="direction: rtl; text-align: right;">
+            <table style="margin: auto; text-align: right;">
+                <tr>
+                    <td>שם משתמש</td>
+                    <td><input type="text" asp-for="UserName" id="txtUserName" placeholder="הכנס את השם משתמש" /></td>
+                    <td id="errorUserName">
+                        @if(Model.msg != "")
+                        {
+                            @Model.msg;
+                        }
+                    </td>
+                </tr>
+                <tr>
+                    <td>סיסמה</td>
+                    <td><input type="password" asp-for="Password" id="password" name="password" placeholder="הזן את הסיסמה" /></td>
+                    <td id="passwordError"></td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <hr />
+                        <input type="submit" value="כניסה" />
+                        <input type="reset" value="איפוס" />
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </main>
+</body>

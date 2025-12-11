@@ -1,0 +1,230 @@
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\appsettings.json
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.staticwebassets.runtime.json
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.exe
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.deps.json
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.runtimeconfig.json
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.pdb
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.AssemblyInfoInputs.cache
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.AssemblyInfo.cs
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.csproj.CoreCompileInputs.cache
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.RazorAssemblyInfo.cache
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.RazorAssemblyInfo.cs
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets\msbuild.F1Bagrut.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets\msbuild.build.F1Bagrut.props
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.F1Bagrut.props
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.F1Bagrut.props
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\scopedcss\bundle\F1Bagrut.styles.css
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\scopedcss\projectbundle\F1Bagrut.bundle.scp.css
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\refint\F1Bagrut.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.pdb
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.genruntimeconfig.cache
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\ref\F1Bagrut.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.csproj.AssemblyReference.cache
+C:\Users\Cyber_Magshimim\Desktop\בית ספר\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.csproj.Up2Date
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\appsettings.json
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.staticwebassets.runtime.json
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.exe
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.deps.json
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.runtimeconfig.json
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\F1Bagrut.pdb
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.csproj.AssemblyReference.cache
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.AssemblyInfoInputs.cache
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.AssemblyInfo.cs
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.csproj.CoreCompileInputs.cache
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.RazorAssemblyInfo.cache
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.RazorAssemblyInfo.cs
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets\msbuild.F1Bagrut.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets\msbuild.build.F1Bagrut.props
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.F1Bagrut.props
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.F1Bagrut.props
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\scopedcss\bundle\F1Bagrut.styles.css
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\scopedcss\projectbundle\F1Bagrut.bundle.scp.css
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.csproj.Up2Date
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\refint\F1Bagrut.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.pdb
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\F1Bagrut.genruntimeconfig.cache
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\obj\Debug\net8.0\ref\F1Bagrut.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Connected Services\ServiceReference3\ConnectedService.json
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.ServiceModel.NetFramingBase.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\System.ServiceModel.Security.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\cs\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\de\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\es\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\fr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\it\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ja\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ko\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pl\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ru\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\tr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\cs\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\de\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\es\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\fr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\it\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ja\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ko\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pl\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ru\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\tr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll

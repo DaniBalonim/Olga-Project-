@@ -1,0 +1,74 @@
+﻿@page
+@model F1Bagrut.Pages.Content.TableDataModel
+@using System.Data;  
+@{
+}
+
+<h1>User Table</h1>
+<div class="input-group md-3">
+    <form method="post" asp-page-handler="Filter" style=" max-width: 250px; margin: 0px; ">
+        <div class="input-group md-3">
+            <input type="text" asp-for="filter" placeholder="First/Last Name or birthDay to filter" />
+            <button type="submit" id="Filter_btn">Filter</button>
+        </div>
+    </form>
+    <form method="post" asp-page-handler="Sort">
+        <div class="input-group md-3">
+            <select asp-for="column">
+                <option value="userName">userName</option>
+                <option value="firstName">firstName</option>
+                <option value="lastName">lastName</option>
+                <option value="password">password</option>
+                <option value="email">email</option>
+                <option value="phoneNumber">phoneNumber</option>
+                <option value="gender">gender</option>
+                <option value="birthDay">birthDay</option>
+                <option value="city">city</option>
+                <option value="admin">admin</option>
+            </select>
+            <select asp-for="order">
+                <option value="ASC">Ascending</option>
+                <option value="DESC">Desending</option>
+            </select>
+            <button type="submit" class="btn btn-success me-3" id="Sort_btn">Sort</button>
+        </div>
+    </form>
+    <form method="post" asp-page-handler="Delete">
+        <div class="input-group mb-3">
+            <input asp-for="userName1" placeholder="UserName to delete">
+            <button class="btn btn-danger" type="submit" id="Delete_btn">Delete</button>
+        </div>
+    </form>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            @foreach (DataColumn column in Model.dT.Columns)
+            {
+                <th>@column.ColumnName</th>
+            }
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (DataRow row in Model.dT.Rows)
+        {
+            <tr>
+                @foreach (DataColumn column in Model.dT.Columns)
+                {
+                    @if (row[column] is DateTime dateTime)
+                    {
+                        <td>@dateTime.ToString("dd/MM/yyyy")</td>
+                        // Format the DateTime to display only the date
+                    }
+                    else
+                    {
+                        <td>@row[column]</td>
+                    }
+                }
+                <td><a asp-page="UsersUpdate" asp-route-param="@row["userName"]">update</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

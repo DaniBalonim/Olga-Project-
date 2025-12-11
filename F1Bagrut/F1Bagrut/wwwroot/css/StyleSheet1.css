@@ -1,0 +1,295 @@
+﻿/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #45474B;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Header (h1, h3) Styling */
+h1 {
+    color: #e10600;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Monotype Corsiva';
+    color: #C51D34;
+    background-color: #211f1f44;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* Paragraph Styling */
+p {
+    text-align: right;
+    font-family: 'Monotype Corsiva';
+    color: honeydew;
+    margin: 10px 0;
+}
+
+/* Form Container Styling */
+form {
+    border: 3px solid #e10600;
+    background-color: #1c1c1c;
+    border-radius: 8px;
+    padding: 25px;
+    width: 100%;
+    margin-left: 33%;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Styling for images */
+img {
+    width: 30%;
+    height: auto;
+    border: groove 3px #C51D34;
+    margin: 10px 1%;
+    display: inline-block;
+    border-radius: 5px;
+    vertical-align: top;
+}
+
+/* Input Fields Styling */
+input[type="text"],
+input[type="password"],
+input[type="date"] {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #222;
+    color: #fff;
+    font-size: 16px;
+}
+
+/* Submit and Reset Button Styling */
+input[type="submit"],
+input[type="reset"] {
+    background-color: #e10600;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+        background-color: #ff2e2e;
+    }
+
+/* Links Styling */
+a:link, a:visited {
+    background: linear-gradient(90deg, #e10600, #ff2e2e);
+    color: #ffffff;
+    border: none;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 1px;
+    transition: all 0.3s ease;
+}
+
+a:hover, a:active {
+    background: linear-gradient(90deg, #ff2e2e, #e10600);
+    transform: scale(1.05);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Login container */
+.login-container {
+    background-color: #1c1c1c;
+    padding: 30px;
+    border-radius: 8px;
+    width: 320px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    border-top: 4px solid #e10600;
+}
+
+    /* Heading */
+    .login-container h1 {
+        color: #e10600;
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    /* Input fields */
+    .login-container input[type="text"],
+    .login-container input[type="password"] {
+        width: 100%;
+        padding: 12px;
+        margin: 10px 0;
+        border: 1px solid #333;
+        border-radius: 5px;
+        background-color: #222;
+        color: #fff;
+        font-size: 16px;
+    }
+
+    /* Login button */
+    .login-container button {
+        background: linear-gradient(90deg, #e10600, #ff2e2e);
+        color: #fff;
+        padding: 14px;
+        width: 100%;
+        border: none;
+        border-radius: 25px;
+        font-size: 18px;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+    }
+
+        .login-container button:hover {
+            background: linear-gradient(90deg, #ff2e2e, #e10600);
+            transform: scale(1.05);
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        .login-container button:active {
+            transform: scale(0.97);
+            box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+        }
+
+    /* Link for continuing without login */
+    .login-container .continue-button {
+        background: linear-gradient(90deg, #444, #555);
+        color: #ffffff;
+        padding: 12px;
+        width: 100%;
+        border: none;
+        border-radius: 25px;
+        font-size: 16px;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        margin-top: 12px;
+        transition: all 0.3s ease;
+    }
+
+        .login-container .continue-button:hover {
+            background: linear-gradient(90deg, #555, #666);
+            transform: scale(1.05);
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        .login-container .continue-button:active {
+            transform: scale(0.97);
+            box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+        }
+
+/* Dropdown Button Styling */
+.dropdown-toggle {
+    background-color: #e10600;
+    color: #ffffff;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 6px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+    .dropdown-toggle:hover {
+        background-color: #ff2e2e;
+        transform: scale(1.05);
+    }
+
+    .dropdown-toggle:focus {
+        outline: none;
+        box-shadow: 0 0 10px rgba(255, 46, 46, 0.7);
+    }
+
+/* Dropdown Menu Styling */
+.dropdown-menu {
+    background-color: #333;
+    border-radius: 6px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border: none;
+}
+
+    .dropdown-menu .dropdown-item {
+        color: #ffffff;
+        padding: 8px 15px;
+        font-size: 14px;
+        border-radius: 4px;
+        transition: background-color 0.3s;
+    }
+
+        .dropdown-menu .dropdown-item:hover {
+            background-color: #444;
+            color: black;
+        }
+
+/* Navbar Styling */
+.navbar {
+    background-color: #1c1c1c !important;
+    border-bottom: 2px solid #e10600;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand, .nav-link {
+    color: #ffffff !important;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+    .navbar-brand:hover, .nav-link:hover {
+        color: #ff2e2e !important;
+    }
+
+/* Dropdown enhancements */
+.dropdown-menu {
+    background-color: #1c1c1c;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.dropdown-item {
+    color: #ffffff;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+    .dropdown-item:hover {
+        background-color: #e10600;
+        color: #fff;
+    }
+
+/* Container and Main Layout */
+.container {
+    background-color: #2a2a2a;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Footer Styling */
+footer.footer {
+    background-color: #1c1c1c;
+    color: #999;
+    text-align: center;
+    padding: 15px 0;
+    border-top: 2px solid #e10600;
+}

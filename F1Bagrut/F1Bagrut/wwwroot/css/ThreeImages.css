@@ -1,0 +1,15 @@
+﻿.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+    .gallery img {
+        width: 320px;
+        height: 150px;
+        object-fit: cover;
+        border: groove #C51D34;
+        margin: 13px;
+    }
