@@ -15,7 +15,7 @@ namespace WcfServiceLibrary1
     {
         public bool AddUser(User user)
         {
-            BaseDB b = new BaseDB();
+            UsersDB b = new UsersDB();
             bool res = b.AddUser(user);
             return res;
         }

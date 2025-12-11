@@ -16,69 +16,17 @@ namespace ViewDB
         protected OleDbCommand command;
         protected OleDbDataReader reader;
 
-        public bool AddUser(User user)
+        public BaseDB()
         {
             if (connectionString == null)
             {
                 string applicationBaseFolder = AppDomain.CurrentDomain.BaseDirectory;  // directory of EXE file, at bin/debug directory
-                connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + applicationBaseFolder + "\\..\\..\\..\\UsersDB.accdb;Persist Security Info=True";
+                connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + applicationBaseFolder + "\\..\\..\\..\\ViewDB\\ArchiveData3.accdb;Persist Security Info=True";
             }
             connection = new OleDbConnection(connectionString);
             command = new OleDbCommand();
             command.Connection = connection;
-
-            command.CommandText = $"INSERT INTO Users ([username], pass, birthYear, tel) VALUES ('{user.Username}', '{user.Pass}', {user.BirthYear}, {user.Tel});";
-
-            int records = 0;
-
-            try
-            {
-                connection.Open();
-                reader = command.ExecuteReader();
-                //while (reader.Read())
-                //{
-                //    Base entity = NewEntity(); //יוצר אובייקט מטיפוס המתאים
-                //    list.Add(CreateModel(entity));
-                //}
-            }
-            catch (Exception ex)
-            {
-                records = -5;
-                //System.Diagnostics.Debug.WriteLine(ex.Message); //will write is every world, not only in world of Console
-
-                //the output - we'll see in the output window of VisualStudio
-            }
-            finally
-            {
-                //if (reader != null)
-                //    reader.Close();
-                if (connection.State == ConnectionState.Open)
-                    connection.Close();
-            }
-            //return list;
-            if (records == -5)
-                return false;
-            return true;
         }
-
-
-        //is used to get IDs only from DB. for example in SignIn we want to get ID.
-        //protected virtual Base NewEntity()
-        //{
-        //    return new Base();
-        //}
-
-        //public BaseDB()
-        //{
-        //    if (connectionString == null)
-        //    {
-        //        string applicationBaseFolder = AppDomain.CurrentDomain.BaseDirectory;  // directory of EXE file, at bin/debug directory
-        //        connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + applicationBaseFolder + "\\..\\..\\..\\ViewDB\\ArchiveData3.accdb;Persist Security Info=True";
-        //    }
-        //    connection = new OleDbConnection(connectionString);
-        //    command = new OleDbCommand();
-        //    command.Connection = connection;
-        //}
 
         //protected List<Base> CreateModel()
         //{
@@ -167,26 +115,26 @@ namespace ViewDB
 
 
         ////returns number of changed rows in the table
-        //protected int SaveChanges(string command_text)
-        //{
-        //    int records = 0;
-        //    try
-        //    {
-        //        command.CommandText = command_text;
-        //        connection.Open();
-        //        records = command.ExecuteNonQuery();
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        System.Diagnostics.Debug.WriteLine(e.Message + "\nSQL:" + command.CommandText);
-        //    }
-        //    finally
-        //    {
-        //        if (connection.State == ConnectionState.Open)
-        //            connection.Close();
-        //    }
-        //    return records;
-        //}
+        protected int SaveChanges(string command_text)
+        {
+            int records = 0;
+            try
+            {
+                command.CommandText = command_text;
+                connection.Open();
+                records = command.ExecuteNonQuery();
+            }
+            catch (Exception e)
+            {
+                System.Diagnostics.Debug.WriteLine(e.Message + "\nSQL:" + command.CommandText);
+            }
+            finally
+            {
+                if (connection.State == ConnectionState.Open)
+                    connection.Close();
+            }
+            return records;
+        }
 
         ////returns number of changed rows in the table
         //public virtual int AddToDB(Base entity)
