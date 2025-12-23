@@ -4221,11 +4221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\F1Bagrut.csproj",
+      "projectUniqueName": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\F1Bagrut.csproj",
       "projectName": "F1Bagrut",
-      "projectPath": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\F1Bagrut.csproj",
+      "projectPath": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\F1Bagrut.csproj",
       "packagesPath": "C:\\Users\\Cyber_Magshimim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\obj\\",
+      "outputPath": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

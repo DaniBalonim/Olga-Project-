@@ -4,7 +4,7 @@ using System.Data.Common;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Runtime.Serialization;
-using System.ServiceModel;
+using System.ServiceModel;  
 using System.ServiceModel.Channels;
 using System.Text;
 using Model;
@@ -31,6 +31,11 @@ namespace WcfServiceLibrary1
         bool AddUser(User user);
 
         // TODO: Add your service operations here
+        [OperationContract]
+        bool AddDog(Dog dog);
+
+        [OperationContract]
+        bool AddCat(Cat cat);
     }
 
     // Use a data contract as illustrated in the sample below to add composite types to service operations.

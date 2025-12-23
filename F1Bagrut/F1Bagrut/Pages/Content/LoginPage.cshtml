@@ -12,9 +12,10 @@
                     <td>שם משתמש</td>
                     <td><input type="text" asp-for="UserName" id="txtUserName" placeholder="הכנס את השם משתמש" /></td>
                     <td id="errorUserName">
-                        @if(Model.msg != "")
+                        @if (Model.msg != "")
                         {
-                            @Model.msg;
+                            @Model.msg
+                            ;
                         }
                     </td>
                 </tr>
@@ -24,10 +25,17 @@
                     <td id="passwordError"></td>
                 </tr>
                 <tr>
-                    <td colspan="2" align="center">
+                    <td colspan="3" align="center">
                         <hr />
                         <input type="submit" value="כניסה" />
                         <input type="reset" value="איפוס" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="3" align="center" style="padding-top: 10px;">
+                        <input type="submit" value="Add Dog" asp-page-handler="AddDog" />
+                        <input type="submit" value="Add Cat" asp-page-handler="AddCat" />
                     </td>
                 </tr>
             </table>

@@ -21,7 +21,7 @@ namespace ViewDB
             if (connectionString == null)
             {
                 string applicationBaseFolder = AppDomain.CurrentDomain.BaseDirectory;  // directory of EXE file, at bin/debug directory
-                connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + applicationBaseFolder + "\\..\\..\\..\\ViewDB\\ArchiveData3.accdb;Persist Security Info=True";
+                connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + applicationBaseFolder + "\\..\\..\\..\\UsersDB.accdb;Persist Security Info=True";
             }
             connection = new OleDbConnection(connectionString);
             command = new OleDbCommand();

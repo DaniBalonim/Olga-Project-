@@ -9,127 +9,127 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = F1Bagrut
 build_property.RootNamespace = F1Bagrut
-build_property.ProjectDir = C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut\
+build_property.ProjectDir = C:\Users\Cyber_Magshimim\Desktop\school\server\F1Bagrut\F1Bagrut\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Cyber_Magshimim\Desktop\school\Bagrut\F1Bagrut\F1Bagrut
+build_property.MSBuildProjectDirectory = C:\Users\Cyber_Magshimim\Desktop\school\server\F1Bagrut\F1Bagrut
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/AccessDenied.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/FormPage.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/FormPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxGb3JtUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/Index.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/LoginPage.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/LoginPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxMb2dpblBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/Logout.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P10_F1Legends.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P10_F1Legends.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQMTBfRjFMZWdlbmRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P11_F1CarDesign.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P11_F1CarDesign.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQMTFfRjFDYXJEZXNpZ24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P12_F1RaceStrategy.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P12_F1RaceStrategy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQMTJfRjFSYWNlU3RyYXRlZ3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P13_F1DriverTraining.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P13_F1DriverTraining.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQMTNfRjFEcml2ZXJUcmFpbmluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P14_F1TechEvolution.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P14_F1TechEvolution.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQMTRfRjFUZWNoRXZvbHV0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P15_F1Sustainability.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P15_F1Sustainability.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQMTVfRjFTdXN0YWluYWJpbGl0eS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P1_TopF1Champions.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P1_TopF1Champions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQMV9Ub3BGMUNoYW1waW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P2_F1IconicTracks.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P2_F1IconicTracks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQMl9GMUljb25pY1RyYWNrcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P3_F12024Predictions.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P3_F12024Predictions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQM19GMTIwMjRQcmVkaWN0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P4_F1TechAndEngineering.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P4_F1TechAndEngineering.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQNF9GMVRlY2hBbmRFbmdpbmVlcmluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P5_F1History.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P5_F1History.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQNV9GMUhpc3RvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P6_F1YoungDrivers2024.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P6_F1YoungDrivers2024.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQNl9GMVlvdW5nRHJpdmVyczIwMjQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P7_F1Rivalries.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P7_F1Rivalries.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQN19GMVJpdmFscmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P8_F1MemorableMoments.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P8_F1MemorableMoments.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQOF9GMU1lbW9yYWJsZU1vbWVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/P9_F1SpeedAndSafety.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/P9_F1SpeedAndSafety.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxQOV9GMVNwZWVkQW5kU2FmZXR5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/TableData.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/TableData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxUYWJsZURhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Content/UsersUpdate.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Content/UsersUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxVc2Vyc1VwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Error.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Index.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Privacy.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/_ViewImports.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/_ViewStart.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cyber_Magshimim/Desktop/school/Bagrut/F1Bagrut/F1Bagrut/Pages/Shared/_Layout.cshtml]
+[C:/Users/Cyber_Magshimim/Desktop/school/server/F1Bagrut/F1Bagrut/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ain3kgiqg3

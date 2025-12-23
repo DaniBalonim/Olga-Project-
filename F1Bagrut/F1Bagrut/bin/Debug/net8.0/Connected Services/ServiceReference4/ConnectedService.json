@@ -8,8 +8,9 @@
       "System.Collections.Generic.Dictionary`2"
     ],
     "namespaceMappings": [
-      "*, ServiceReference3"
+      "*, ServiceReference4"
     ],
+    "sync": true,
     "targetFramework": "net8.0",
     "typeReuseMode": "All"
   }

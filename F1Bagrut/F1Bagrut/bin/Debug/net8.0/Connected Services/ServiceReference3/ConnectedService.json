@@ -10,7 +10,6 @@
     "namespaceMappings": [
       "*, ServiceReference3"
     ],
-    "sync": true,
     "targetFramework": "net8.0",
     "typeReuseMode": "All"
   }

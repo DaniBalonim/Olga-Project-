@@ -19,6 +19,17 @@ namespace WcfServiceLibrary1
             bool res = b.AddUser(user);
             return res;
         }
+        public bool AddDog(Dog dog)
+        {
+            AnimalsDB db = new AnimalsDB();
+            return db.AddDog(dog);
+        }
+
+        public bool AddCat(Cat cat)
+        {
+            AnimalsDB db = new AnimalsDB();
+            return db.AddCat(cat);
+        }
         public string GetData(int value)
         {
             return string.Format("You entered: {0}", value);

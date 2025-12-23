@@ -1,443 +1,443 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\F1Bagrut.bundle.scp.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\F1Bagrut.bundle.scp.css",
       "PackagePath": "staticwebassets\\F1Bagrut.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\F1race.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\F1race.jpg",
       "PackagePath": "staticwebassets\\Images\\F1race.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic1.PNG",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic1.PNG",
       "PackagePath": "staticwebassets\\Images\\Pic1.PNG"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic10.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic10.jpg",
       "PackagePath": "staticwebassets\\Images\\Pic10.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic2.png",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic2.png",
       "PackagePath": "staticwebassets\\Images\\Pic2.png"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic3.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic3.jpg",
       "PackagePath": "staticwebassets\\Images\\Pic3.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic4.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic4.jpg",
       "PackagePath": "staticwebassets\\Images\\Pic4.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic5.PNG",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic5.PNG",
       "PackagePath": "staticwebassets\\Images\\Pic5.PNG"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic6.PNG",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic6.PNG",
       "PackagePath": "staticwebassets\\Images\\Pic6.PNG"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic7.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic7.jpg",
       "PackagePath": "staticwebassets\\Images\\Pic7.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic8.jpeg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic8.jpeg",
       "PackagePath": "staticwebassets\\Images\\Pic8.jpeg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic9.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\Pic9.jpg",
       "PackagePath": "staticwebassets\\Images\\Pic9.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\background.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\background.jpg",
       "PackagePath": "staticwebassets\\Images\\background.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\background2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\background2.jpg",
       "PackagePath": "staticwebassets\\Images\\background2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\ferrariCar.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\ferrariCar.jpg",
       "PackagePath": "staticwebassets\\Images\\ferrariCar.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\formula-1-red-bull-racing-laun-2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\formula-1-red-bull-racing-laun-2.jpg",
       "PackagePath": "staticwebassets\\Images\\formula-1-red-bull-racing-laun-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\mercedes.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\Images\\mercedes.jpg",
       "PackagePath": "staticwebassets\\Images\\mercedes.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\Page2.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\Page2.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\Page2.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\Page3.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\Page3.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\Page3.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\Page3.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\Page3.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\Page3.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page10.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page10.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page10.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page10.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page10.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page10.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page11.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page11.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page11.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page11.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page11.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page11.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page12.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page12.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page12.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page12.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page12.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page12.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page13.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page13.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page13.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page13.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page13.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page13.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page14.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page14.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page14.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page14.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page14.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page14.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page15.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page15.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page15.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page15.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page15.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page15.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page2.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page2.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page2.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page4.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page4.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page4.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page4.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page4.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page4.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page5.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page5.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page5.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page5.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page5.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page5.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page6.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page6.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page6.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page6.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page6.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page6.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page7.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page7.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page7.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page7.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page7.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page7.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page8.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page8.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page8.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page8.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page8.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page8.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page9.1.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page9.1.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page9.1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page9.2.jpg",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\ImgPage\\page9.2.jpg",
       "PackagePath": "staticwebassets\\ImgPage\\page9.2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\StyleSheet1.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\StyleSheet1.css",
       "PackagePath": "staticwebassets\\css\\StyleSheet1.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\ThreeImages.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\ThreeImages.css",
       "PackagePath": "staticwebassets\\css\\ThreeImages.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\TwoImages.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\TwoImages.css",
       "PackagePath": "staticwebassets\\css\\TwoImages.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\js\\JavaScript.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\js\\JavaScript.js",
       "PackagePath": "staticwebassets\\js\\JavaScript.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\js\\updateJava.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\js\\updateJava.js",
       "PackagePath": "staticwebassets\\js\\updateJava.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\Bagrut\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
