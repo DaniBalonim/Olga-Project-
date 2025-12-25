@@ -82,7 +82,7 @@ namespace F1Bagrut.Pages.Content
             // 2. מילוי נתונים
             cat.Name = UserName;
             cat.Age = 3;
-            cat.Color = Password;
+            cat.Color = Password ;
 
             // 3. שליחה לשירות
             bool result = srv.AddCat(cat);

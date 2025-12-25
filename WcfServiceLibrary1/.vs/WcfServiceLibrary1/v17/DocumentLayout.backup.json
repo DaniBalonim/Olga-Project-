@@ -3,15 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\WcfServiceLibrary1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D49C9EF3-BB1C-4060-ABB6-51753A12A979}|..\\ViewDB\\ViewDB.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\viewdb\\basedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49C9EF3-BB1C-4060-ABB6-51753A12A979}|..\\ViewDB\\ViewDB.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\viewdb\\animalsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338E3281-7C1E-465B-8F26-F43E31569B79}|..\\Model\\Model.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D49C9EF3-BB1C-4060-ABB6-51753A12A979}|..\\ViewDB\\ViewDB.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\viewdb\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,8 +14,13 @@
       "RelativeMoniker": "D:0:0:{D0E0BF6C-62B2-4F60-A3A5-4B9D8DB3E2C1}|WcfServiceLibrary1.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0E0BF6C-62B2-4F60-A3A5-4B9D8DB3E2C1}|WcfServiceLibrary1.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\wcfservicelibrary1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D0E0BF6C-62B2-4F60-A3A5-4B9D8DB3E2C1}|WcfServiceLibrary1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{338E3281-7C1E-465B-8F26-F43E31569B79}|..\\Model\\Model.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49C9EF3-BB1C-4060-ABB6-51753A12A979}|..\\ViewDB\\ViewDB.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\viewdb\\basedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E3281-7C1E-465B-8F26-F43E31569B79}|..\\Model\\Model.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,91 +42,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\WcfServiceLibrary1\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\WcfServiceLibrary1\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-23T17:46:46.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AnimalsDB.cs",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\ViewDB\\AnimalsDB.cs",
-              "RelativeDocumentMoniker": "..\\ViewDB\\AnimalsDB.cs",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\ViewDB\\AnimalsDB.cs",
-              "RelativeToolTip": "..\\ViewDB\\AnimalsDB.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\Model\\UserLogin.cs",
+              "RelativeDocumentMoniker": "..\\Model\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\Model\\UserLogin.cs",
+              "RelativeToolTip": "..\\Model\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T17:29:13.348Z",
+              "WhenOpened": "2025-12-25T14:27:30.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UsersDB.cs",
               "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\ViewDB\\UsersDB.cs",
               "RelativeDocumentMoniker": "..\\ViewDB\\UsersDB.cs",
               "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\ViewDB\\UsersDB.cs",
               "RelativeToolTip": "..\\ViewDB\\UsersDB.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T12:20:04.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\Model\\User.cs",
               "RelativeDocumentMoniker": "..\\Model\\User.cs",
               "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\Model\\User.cs",
               "RelativeToolTip": "..\\Model\\User.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wCAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T13:53:23.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BaseDB.cs",
               "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\ViewDB\\BaseDB.cs",
               "RelativeDocumentMoniker": "..\\ViewDB\\BaseDB.cs",
               "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\ViewDB\\BaseDB.cs",
               "RelativeToolTip": "..\\ViewDB\\BaseDB.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAArwBcAAACFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwHUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T13:53:40.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Service1.cs",
               "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\WcfServiceLibrary1\\Service1.cs",
               "RelativeDocumentMoniker": "Service1.cs",
               "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\WcfServiceLibrary1\\Service1.cs",
               "RelativeToolTip": "Service1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T07:05:02.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "IService1.cs",
               "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\WcfServiceLibrary1\\IService1.cs",
               "RelativeDocumentMoniker": "IService1.cs",
               "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\WcfServiceLibrary1\\IService1.cs",
               "RelativeToolTip": "IService1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwCUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T13:53:42.219Z",
               "EditorCaption": ""

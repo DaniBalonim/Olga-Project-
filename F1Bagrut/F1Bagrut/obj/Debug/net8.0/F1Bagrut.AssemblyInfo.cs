@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("F1Bagrut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ac66c90975052fee388e894cfac7d8b789a2030")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b26a30df4a65ec6b03d704b477c9ea9104eeb4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("F1Bagrut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("F1Bagrut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
