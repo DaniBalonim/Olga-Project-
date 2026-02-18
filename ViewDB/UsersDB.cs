@@ -22,6 +22,13 @@ namespace ViewDB
             return true;
         }
 
+        public bool CheckIsUser(UserLogin user)
+        {
+            string sqlString = $"SELECT COUNT(*) FROM Users WHERE [username] = '{user.Username}' and [pass] = '{user.Pass}'";
+            int res = Count(sqlString);
+            return res > 0;
+        }
+
         public int CheckUser(UserLogin user)
         {
             //string mySQL = $"SELECT COUNT(*) FROM Users WHERE username='{user.Username}';";

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\f1bagrut\\f1bagrut\\pages\\content\\loginpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|solutionrelative:f1bagrut\\pages\\content\\loginpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\f1bagrut\\f1bagrut\\pages\\content\\formpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|solutionrelative:f1bagrut\\pages\\content\\formpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\f1bagrut\\f1bagrut\\wwwroot\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|solutionrelative:f1bagrut\\wwwroot\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\f1bagrut\\f1bagrut\\pages\\content\\formpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|solutionrelative:f1bagrut\\pages\\content\\formpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\f1bagrut\\f1bagrut\\pages\\content\\usersupdate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|solutionrelative:f1bagrut\\pages\\content\\usersupdate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\f1bagrut\\f1bagrut\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|solutionrelative:f1bagrut\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\f1bagrut\\f1bagrut\\pages\\content\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|solutionrelative:f1bagrut\\pages\\content\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\f1bagrut\\f1bagrut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|solutionrelative:f1bagrut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|c:\\users\\cyber_magshimim\\desktop\\school\\server\\f1bagrut\\f1bagrut\\pages\\content\\loginpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFDC1CC-8951-4FD1-82DF-0AF98EA2D7A2}|F1Bagrut\\F1Bagrut.csproj|solutionrelative:f1bagrut\\pages\\content\\loginpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +38,47 @@
       "DocumentGroups": [
         {
           "DockedHeight": 237,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "F1Bagrut\\wwwroot\\css\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\wwwroot\\css\\StyleSheet1.css",
+              "RelativeToolTip": "F1Bagrut\\wwwroot\\css\\StyleSheet1.css",
+              "ViewState": "AgIAABUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-22T14:16:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersUpdate.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\UsersUpdate.cshtml.cs",
+              "RelativeDocumentMoniker": "F1Bagrut\\Pages\\Content\\UsersUpdate.cshtml.cs",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\UsersUpdate.cshtml.cs",
+              "RelativeToolTip": "F1Bagrut\\Pages\\Content\\UsersUpdate.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T14:12:11.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\FormPage.cshtml.cs",
+              "RelativeDocumentMoniker": "F1Bagrut\\Pages\\Content\\FormPage.cshtml.cs",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\FormPage.cshtml.cs",
+              "RelativeToolTip": "F1Bagrut\\Pages\\Content\\FormPage.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:46:08.549Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -34,41 +89,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "FormPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\FormPage.cshtml",
+              "RelativeDocumentMoniker": "F1Bagrut\\Pages\\Content\\FormPage.cshtml",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\FormPage.cshtml",
+              "RelativeToolTip": "F1Bagrut\\Pages\\Content\\FormPage.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T13:46:00.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Model\\User.cs",
+              "RelativeDocumentMoniker": "F1Bagrut\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Model\\User.cs",
+              "RelativeToolTip": "F1Bagrut\\Model\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T14:11:37.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LoginPage.cshtml",
               "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\LoginPage.cshtml",
               "RelativeDocumentMoniker": "F1Bagrut\\Pages\\Content\\LoginPage.cshtml",
               "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\LoginPage.cshtml",
               "RelativeToolTip": "F1Bagrut\\Pages\\Content\\LoginPage.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-10T13:04:05.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "LoginPage.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\LoginPage.cshtml.cs",
               "RelativeDocumentMoniker": "F1Bagrut\\Pages\\Content\\LoginPage.cshtml.cs",
               "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Pages\\Content\\LoginPage.cshtml.cs",
               "RelativeToolTip": "F1Bagrut\\Pages\\Content\\LoginPage.cshtml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAADgvykAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T14:19:15.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Program.cs",
-              "RelativeDocumentMoniker": "F1Bagrut\\Program.cs",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\school\\server\\F1Bagrut\\F1Bagrut\\Program.cs",
-              "RelativeToolTip": "F1Bagrut\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T14:17:52.875Z",
               "EditorCaption": ""
             }
           ]

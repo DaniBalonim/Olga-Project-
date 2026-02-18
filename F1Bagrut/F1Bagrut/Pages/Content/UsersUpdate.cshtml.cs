@@ -25,7 +25,7 @@ namespace F1Bagrut.Pages.Content
             NewUser.email = dr["email"].ToString();
             NewUser.phoneNumber = dr["phoneNumber"].ToString();
             NewUser.gender = dr["gender"].ToString();
-            NewUser.birthDay = DateTime.Parse(dr["birthDay"].ToString());
+            NewUser.birthDay = int.Parse(dr["birthDay"].ToString());
             NewUser.city = dr["city"].ToString();
             NewUser.admin = (bool)dr["admin"];
             return Page();

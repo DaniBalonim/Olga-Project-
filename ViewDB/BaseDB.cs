@@ -44,24 +44,24 @@ namespace ViewDB
         //    return entity;
         //}
 
-        //protected virtual int Count(string sqlString)
-        //{
-        //    int count = -1;
-        //    try
-        //    {
-        //        command.CommandText = sqlString;
-        //        connection.Open();
-        //        count = System.Convert.ToInt32(command.ExecuteScalar());
-        //    }
-        //    finally
-        //    {
-        //        if (reader != null)
-        //            reader.Close();
-        //        if (connection.State == ConnectionState.Open)
-        //            connection.Close();
-        //    }
-        //    return count;
-        //}
+        protected virtual int Count(string sqlString)
+        {
+            int count = -1;
+            try
+            {
+                command.CommandText = sqlString;
+                connection.Open();
+                count = System.Convert.ToInt32(command.ExecuteScalar());
+            }
+            finally
+            {
+                if (reader != null)
+                    reader.Close();
+                if (connection.State == ConnectionState.Open)
+                    connection.Close();
+            }
+            return count;
+        }
 
         //protected virtual string Max(string sqlString)
         //{

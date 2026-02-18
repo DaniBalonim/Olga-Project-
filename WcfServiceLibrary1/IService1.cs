@@ -33,6 +33,9 @@ namespace WcfServiceLibrary1
         [OperationContract]
         int CheckUser(UserLogin user);
 
+        [OperationContract]
+        bool CheckIsUser(UserLogin user);
+
         // TODO: Add your service operations here
         [OperationContract]
         bool AddDog(Dog dog);

@@ -3,7 +3,7 @@
 @{
 }
 <link href="~/css/stylesheet1.css" rel="stylesheet" />
-<script src="~/js/javascript.js"></script>
+@* <script src="~/js/javascript.js"></script>*@
 
 <main>
     <form onsubmit="return CheckForm()" method="post" style="direction: rtl; text-align: right;">
@@ -50,7 +50,7 @@
             </tr>
             <tr>
                 <td>תאריך לידה</td>
-                <td><input type="date" asp-for="NewUser.birthDay" id="birth" /></td>
+                <td><input type="int" asp-for="NewUser.birthDay" id="birth" /></td>
                 <td id="birthError"></td>
             </tr>
             <tr>

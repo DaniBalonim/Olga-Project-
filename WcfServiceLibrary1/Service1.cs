@@ -19,11 +19,17 @@ namespace WcfServiceLibrary1
             bool res = u.AddUser(user);
             return res;
         }
-
         public int CheckUser(UserLogin user)
         {
             UsersDB u = new UsersDB();
             int res = u.CheckUser(user);
+            return res;
+        }
+
+        public bool CheckIsUser(UserLogin user)
+        {
+            UsersDB u = new UsersDB();
+            bool res = u.CheckIsUser(user);
             return res;
         }
         public bool AddDog(Dog dog)

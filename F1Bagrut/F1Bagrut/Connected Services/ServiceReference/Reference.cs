@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ServiceReference4
+namespace ServiceReference
 {
     using System.Runtime.Serialization;
     
@@ -89,7 +89,7 @@ namespace ServiceReference4
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.Runtime.Serialization.DataContractAttribute(Name="UserLogin", Namespace="http://schemas.datacontract.org/2004/07/Model")]
-    [System.Runtime.Serialization.KnownTypeAttribute(typeof(ServiceReference4.User))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(ServiceReference.User))]
     public partial class UserLogin : object
     {
         
@@ -127,7 +127,7 @@ namespace ServiceReference4
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.Runtime.Serialization.DataContractAttribute(Name="User", Namespace="http://schemas.datacontract.org/2004/07/Model")]
-    public partial class User : ServiceReference4.UserLogin
+    public partial class User : ServiceReference.UserLogin
     {
         
         private int BirthYearField;
@@ -266,55 +266,55 @@ namespace ServiceReference4
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
-    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ServiceReference4.IService1")]
+    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ServiceReference.IService1")]
     public interface IService1
     {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetDataUsingDataContract", ReplyAction="http://tempuri.org/IService1/GetDataUsingDataContractResponse")]
-        ServiceReference4.CompositeType GetDataUsingDataContract(ServiceReference4.CompositeType composite);
+        ServiceReference.CompositeType GetDataUsingDataContract(ServiceReference.CompositeType composite);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/GetDataUsingDataContract", ReplyAction="http://tempuri.org/IService1/GetDataUsingDataContractResponse")]
-        System.Threading.Tasks.Task<ServiceReference4.CompositeType> GetDataUsingDataContractAsync(ServiceReference4.CompositeType composite);
+        System.Threading.Tasks.Task<ServiceReference.CompositeType> GetDataUsingDataContractAsync(ServiceReference.CompositeType composite);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/CheckPizzaOrder", ReplyAction="http://tempuri.org/IService1/CheckPizzaOrderResponse")]
-        ServiceReference4.PizzaMenu CheckPizzaOrder(ServiceReference4.PizzaMenu order);
+        ServiceReference.PizzaMenu CheckPizzaOrder(ServiceReference.PizzaMenu order);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/CheckPizzaOrder", ReplyAction="http://tempuri.org/IService1/CheckPizzaOrderResponse")]
-        System.Threading.Tasks.Task<ServiceReference4.PizzaMenu> CheckPizzaOrderAsync(ServiceReference4.PizzaMenu order);
+        System.Threading.Tasks.Task<ServiceReference.PizzaMenu> CheckPizzaOrderAsync(ServiceReference.PizzaMenu order);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/AddUser", ReplyAction="http://tempuri.org/IService1/AddUserResponse")]
-        bool AddUser(ServiceReference4.User user);
+        bool AddUser(ServiceReference.User user);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/AddUser", ReplyAction="http://tempuri.org/IService1/AddUserResponse")]
-        System.Threading.Tasks.Task<bool> AddUserAsync(ServiceReference4.User user);
+        System.Threading.Tasks.Task<bool> AddUserAsync(ServiceReference.User user);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/CheckUser", ReplyAction="http://tempuri.org/IService1/CheckUserResponse")]
-        int CheckUser(ServiceReference4.UserLogin user);
+        int CheckUser(ServiceReference.UserLogin user);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/CheckUser", ReplyAction="http://tempuri.org/IService1/CheckUserResponse")]
-        System.Threading.Tasks.Task<int> CheckUserAsync(ServiceReference4.UserLogin user);
+        System.Threading.Tasks.Task<int> CheckUserAsync(ServiceReference.UserLogin user);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/AddDog", ReplyAction="http://tempuri.org/IService1/AddDogResponse")]
-        bool AddDog(ServiceReference4.Dog dog);
+        bool AddDog(ServiceReference.Dog dog);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/AddDog", ReplyAction="http://tempuri.org/IService1/AddDogResponse")]
-        System.Threading.Tasks.Task<bool> AddDogAsync(ServiceReference4.Dog dog);
+        System.Threading.Tasks.Task<bool> AddDogAsync(ServiceReference.Dog dog);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/AddCat", ReplyAction="http://tempuri.org/IService1/AddCatResponse")]
-        bool AddCat(ServiceReference4.Cat cat);
+        bool AddCat(ServiceReference.Cat cat);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/AddCat", ReplyAction="http://tempuri.org/IService1/AddCatResponse")]
-        System.Threading.Tasks.Task<bool> AddCatAsync(ServiceReference4.Cat cat);
+        System.Threading.Tasks.Task<bool> AddCatAsync(ServiceReference.Cat cat);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
-    public interface IService1Channel : ServiceReference4.IService1, System.ServiceModel.IClientChannel
+    public interface IService1Channel : ServiceReference.IService1, System.ServiceModel.IClientChannel
     {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
-    public partial class Service1Client : System.ServiceModel.ClientBase<ServiceReference4.IService1>, ServiceReference4.IService1
+    public partial class Service1Client : System.ServiceModel.ClientBase<ServiceReference.IService1>, ServiceReference.IService1
     {
         
         /// <summary>
@@ -357,62 +357,62 @@ namespace ServiceReference4
         {
         }
         
-        public ServiceReference4.CompositeType GetDataUsingDataContract(ServiceReference4.CompositeType composite)
+        public ServiceReference.CompositeType GetDataUsingDataContract(ServiceReference.CompositeType composite)
         {
             return base.Channel.GetDataUsingDataContract(composite);
         }
         
-        public System.Threading.Tasks.Task<ServiceReference4.CompositeType> GetDataUsingDataContractAsync(ServiceReference4.CompositeType composite)
+        public System.Threading.Tasks.Task<ServiceReference.CompositeType> GetDataUsingDataContractAsync(ServiceReference.CompositeType composite)
         {
             return base.Channel.GetDataUsingDataContractAsync(composite);
         }
         
-        public ServiceReference4.PizzaMenu CheckPizzaOrder(ServiceReference4.PizzaMenu order)
+        public ServiceReference.PizzaMenu CheckPizzaOrder(ServiceReference.PizzaMenu order)
         {
             return base.Channel.CheckPizzaOrder(order);
         }
         
-        public System.Threading.Tasks.Task<ServiceReference4.PizzaMenu> CheckPizzaOrderAsync(ServiceReference4.PizzaMenu order)
+        public System.Threading.Tasks.Task<ServiceReference.PizzaMenu> CheckPizzaOrderAsync(ServiceReference.PizzaMenu order)
         {
             return base.Channel.CheckPizzaOrderAsync(order);
         }
         
-        public bool AddUser(ServiceReference4.User user)
+        public bool AddUser(ServiceReference.User user)
         {
             return base.Channel.AddUser(user);
         }
         
-        public System.Threading.Tasks.Task<bool> AddUserAsync(ServiceReference4.User user)
+        public System.Threading.Tasks.Task<bool> AddUserAsync(ServiceReference.User user)
         {
             return base.Channel.AddUserAsync(user);
         }
         
-        public int CheckUser(ServiceReference4.UserLogin user)
+        public int CheckUser(ServiceReference.UserLogin user)
         {
             return base.Channel.CheckUser(user);
         }
         
-        public System.Threading.Tasks.Task<int> CheckUserAsync(ServiceReference4.UserLogin user)
+        public System.Threading.Tasks.Task<int> CheckUserAsync(ServiceReference.UserLogin user)
         {
             return base.Channel.CheckUserAsync(user);
         }
         
-        public bool AddDog(ServiceReference4.Dog dog)
+        public bool AddDog(ServiceReference.Dog dog)
         {
             return base.Channel.AddDog(dog);
         }
         
-        public System.Threading.Tasks.Task<bool> AddDogAsync(ServiceReference4.Dog dog)
+        public System.Threading.Tasks.Task<bool> AddDogAsync(ServiceReference.Dog dog)
         {
             return base.Channel.AddDogAsync(dog);
         }
         
-        public bool AddCat(ServiceReference4.Cat cat)
+        public bool AddCat(ServiceReference.Cat cat)
         {
             return base.Channel.AddCat(cat);
         }
         
-        public System.Threading.Tasks.Task<bool> AddCatAsync(ServiceReference4.Cat cat)
+        public System.Threading.Tasks.Task<bool> AddCatAsync(ServiceReference.Cat cat)
         {
             return base.Channel.AddCatAsync(cat);
         }
